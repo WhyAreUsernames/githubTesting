@@ -11,3 +11,7 @@ for i in range(0, x):
 
 #try nimber 4
 #5sß
+
+
+
+#the thing fucking worked, the token whatever i set up let this file get sent to the github website, but the key thing i have is WAY to long for me to remember and i don't know what to do about it since i won't be able to use it for anything other than copy/paste it from the local computer
